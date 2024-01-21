@@ -1,4 +1,4 @@
-# RuneScape World Info Scraper
+# Old School RuneScape World Info Scraper
 
 This Python script allows you to fetch and parse information about RuneScape game worlds, including their types, addresses, player counts, and more.
 
